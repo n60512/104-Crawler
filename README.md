@@ -21,7 +21,7 @@ python 104-Crawler \
 
 ## Result
 
-爬取結果儲存至 Jobdetector\output
+爬取結果儲存至 104-Crawler\output
 
 |jobName|salaryLow|salaryHigh|appearDate|jobAddrNoDesc|jobAddress|applyDesc|custName|coIndustryDesc|
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|
